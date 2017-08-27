@@ -6,11 +6,12 @@ The awesome landing page created by two enthusiasts.
 
  - Realizing UI/UX.
  - Introducing back-end/front-end.
+ - Implementing Flow / TypeScript.
 
 ## Authors
 
-* **Laszlo Naumenko** - *Initial work* - [pureinx](https://gitlab.com/pureinx)
-* **Ivan Gaidar** - *Initial work* - [vano97](https://gitlab.com/vano97)
+* **Laszlo Naumenko**  - [pureinx](https://github.com/thepureinx)
+* **Ivan Gaidar** - [vano97](https://gitlab.com/vano97)
 
 
 ## License
