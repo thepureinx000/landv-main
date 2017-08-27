@@ -11,6 +11,9 @@ class Header extends Component {
                 <div className="main-overlay"></div>
                 <div className="header">
                     <Logo />
+                    <a href="#" className="m-menu-link">
+                        <i className="fa fa-bars"></i>
+                    </a>
                     <MenuList />
                 </div>
                 <div className="main-text">

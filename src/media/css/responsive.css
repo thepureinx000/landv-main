@@ -1,0 +1,31 @@
+@media (max-width: 1199px) {
+    html {
+        font-size: 11px;
+    }
+
+}
+
+@media (max-width: 991px) {
+    html {
+        font-size: 10px;
+    }
+    .visible-lg {
+        display: none;
+    }
+    .m-menu-link {
+        display: block;
+    }
+    .get-started-btn {
+        margin: 0;
+    }
+    .project-tags {
+        flex-direction: column;
+    }
+    .project-tag {
+        width: 90%;
+        margin: 2rem auto;
+    }
+    .footer-menu {
+        display: none;
+    }
+}

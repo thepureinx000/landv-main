@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class MenuList extends Component {
     render() {
         return (
-            <div className="menu">
+            <div className="menu visible-lg">
                 <ul>
                     <li><a href="#" className="menu-link">Home</a></li>
                     <li><a href="#" className="menu-link">Why L&V</a></li>
