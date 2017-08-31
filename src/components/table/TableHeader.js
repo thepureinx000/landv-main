@@ -6,7 +6,7 @@ class TableHeader extends Component {
         <div className="table-header">
             <span className="table-subtitle">V&L</span>
             <h2>Select a Project</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, minus.</p>
+            <p>We are fast-growing agency that provide three main services.</p>
         </div>
         );
     }

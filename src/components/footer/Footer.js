@@ -7,11 +7,13 @@ import logo from '../../media/img/logo.png';
 class Footer extends Component {
   render() {
     return (
-      <div className="footer-wrap">
-        <div className="footer-block">
-            <img src={logo} alt="logo" />
-            <FooterMenu />
-        </div>
+      <div>
+        <footer className="footer-wrap">
+          <div className="footer-block">
+              <img src={logo} alt="logo" />
+              <FooterMenu />
+          </div>
+        </footer>
       </div>
     );
   }
