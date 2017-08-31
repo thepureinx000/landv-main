@@ -7,6 +7,7 @@ The awesome landing page created by two enthusiasts.
  - Realizing UI/UX.
  - Introducing back-end/front-end.
  - Implementing Flow / TypeScript.
+ - Migrating to HTML5.
 
 ## Authors
 
